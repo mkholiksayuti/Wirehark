@@ -1,0 +1,18 @@
+- Throughput:	
+	Jumlah Bytes:Time Span	= 216778 Bytes : 7.414 s
+				= 29,239 Bytes/s
+				= 29,239 KB/s
+				= 29,239 x 8
+				= 233,912 Kb/s
+
+- Packet Loss : (((( Paket dikirim - Paket diterima)/ Paket dikirim)x100)
+	 	= (((( 281 - 281)/281)x100)
+		= 0
+
+- Delay:
+	Total Delay: 4,686926
+	Rata-rata delay: 0,016739 = 1,6739 ms
+
+- Jitter:
+	Total Jitter: 0,001034
+	Rata-rata Jitter: 0,001655 = 0,1655 ms
